@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "username": "Admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "0cee",
+      "name": "david",
+      "email": "david@gmai.com",
+      "username": "david",
+      "password": "123456",
+      "role": "visit"
+    }
+  ],
+  "events": [
+    {
+      "name": "solo",
+      "description": "dsd",
+      "date": "2025-07-17",
+      "capacity": "4",
+      "id": 6
+    }
+  ],
+  "registrations": []
+}
